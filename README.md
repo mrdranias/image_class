@@ -2,6 +2,9 @@
 modular_classifier
 directory structure
 
+```bash
+home_dir
+|
 ├── imagedata
 │   ├── __init__.py
 │   ├── image database stored locally
@@ -30,3 +33,5 @@ directory structure
 ├── nn_predict.py
 ├── nn_train_bb.py
 └── readme.md
+
+```
