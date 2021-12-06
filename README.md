@@ -21,14 +21,14 @@ home_dir
 │   └──config.py 
 │
 ├── preprocessing
-│    ├── __init__.py
-│    └── preprocessing_classes
+│   ├── __init__.py
+│   └── preprocessing_classes
 │
 │
 ├── neural_network
-│ 	  ├── model_parameters
-│   	├── network_class_info
-│     └── saved weights
+│   ├── model_parameters
+│   ├── network_class_info
+│   └── saved weights
 │
 ├── nn_predict.py
 ├── nn_train_bb.py
